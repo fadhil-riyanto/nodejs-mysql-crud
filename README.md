@@ -1,4 +1,6 @@
-### This Version Not stable
-please No clone.
+### NodeJS crud MYSQL
+## Cara install
+- npm install
+- node index
 
-versi ini belum setabil. dia masih dalam tahap dev.
+buka http://localhost:8989
