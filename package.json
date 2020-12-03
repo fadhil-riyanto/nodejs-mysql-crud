@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-mysql-crud",
+  "version": "1.0.0",
+  "description": "Ini adalah crud dengan MYSQL di nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhil-riyanto/nodejs-mysql-crud.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "crud",
+    "mysql-crud",
+    "nodejs-crud"
+  ],
+  "author": "Fadhil Riyanto (id.fadhil.riyanto@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fadhil-riyanto/nodejs-mysql-crud/issues"
+  },
+  "homepage": "https://github.com/fadhil-riyanto/nodejs-mysql-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mysql": "^2.18.1"
+  }
+}
