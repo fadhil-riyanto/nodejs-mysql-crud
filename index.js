@@ -12,6 +12,7 @@ const app = express();
 
 //konfigurasi koneksi
 const conn = mysql.createConnection({
+	
     host: 'localhost',
     user: 'root',
     password: 'root',
